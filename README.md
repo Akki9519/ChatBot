@@ -1,3 +1,4 @@
+![Screenshot 2023-12-31 163445](https://github.com/Akki9519/ChatBot/assets/103363760/63382817-0622-4531-8e37-f9e9d7f91735)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
